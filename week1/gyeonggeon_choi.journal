@@ -1,0 +1,12 @@
+commodity 1,000. KRW
+
+account 자산:현금
+account 자산:부동산
+account 부채:대출금
+account 자본:출자금
+account 수익:근로소득
+account 비용:통신비
+account 비용:식비
+account 비용:교통비
+
+
