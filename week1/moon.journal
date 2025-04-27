@@ -1,18 +1,18 @@
 commodity 20,000. KRW
 
-account 자산
-account 자산:현금
-account 자산:부동산
-account 부채
-account 부채:대출금
-account 자본
-account 자본:출자금
-account 수익
-account 수익:근로소득
-account 비용
-account 비용:통신비
-account 비용:식비
-account 비용:교통비
+account 자산  ;  type:A
+account 자산:현금  ;  type:A
+account 자산:부동산  ;  type:A
+account 부채  ;  type:L
+account 부채:대출금  ;  type:L
+account 자본  ;  type:E
+account 자본:출자금  ;  type:E
+account 수익  ;  type:R
+account 수익:근로소득  ;  type:R
+account 비용  ;  type:X
+account 비용:통신비  ;  type:X
+account 비용:식비  ;  type:X
+account 비용:교통비  ;  type:X
 
 2024-01-01 부모님으로부터 독립지원금 현금 700만원을 출자받아 사회생활을 시작하다.
     자산:현금       7,000,000.KRW
